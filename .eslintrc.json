@@ -20,7 +20,7 @@
     "rules": {
         "react/jsx-props-no-spreading": "off",
         "camelcase": "error",
-        "arrow-body-style": ["error", "always"],
+        "arrow-body-style": ["error", "as-needed"],
         "spaced-comment": "error",
         "no-duplicate-imports": "error",
         "import/no-named-as-default": 0,
